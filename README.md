@@ -1,16 +1,21 @@
-Política de Privacidade
-Horse Game
+# Política de Privacidade do Horse Game
 
-Este jogo foi desenvolvido por Daniel Dela Justina e está disponível no Google Play.
+## 📜 Sobre o Jogo
+**Horse Game** é um jogo desenvolvido por **Daniel Dela Justina** e disponibilizado gratuitamente no Google Play.
 
-Privacidade dos usuários
+## 🔒 Privacidade do Usuário
+Nosso compromisso com sua privacidade:
+- ✅ **NÃO** coletamos nenhum dado pessoal
+- ✅ **NÃO** armazenamos informações dos usuários
+- ✅ **NÃO** compartilhamos dados com terceiros
 
-Este jogo não coleta, armazena ou compartilha nenhum tipo de informação pessoal dos usuários.
+## 🔐 Permissões Requeridas
+O jogo solicita apenas as permissões necessárias para seu funcionamento adequado:
+- Todas as permissões são usadas exclusivamente para fins de jogabilidade
+- **Nenhuma** permissão é usada para coleta de dados ou fins comerciais
 
-Permissões
+## 📩 Contato
+Se tiver qualquer dúvida sobre esta política ou sobre o jogo, entre em contato:
+- **E-mail:** [dd.justina@gmail.com](mailto:dd.justina@gmail.com)
 
-As permissões solicitadas pelo jogo são exclusivamente para seu funcionamento adequado e não têm fins comerciais ou de rastreamento.
-
-Contato
-
-Se tiver dúvidas sobre esta política, entre em contato pelo e-mail: dd.justina@gmail.com
+*Última atualização: 21/05/2025*
